@@ -33,8 +33,18 @@ Kik Perfume wants to host its product catalog and internal management system on 
 
 ### 1. ✅ Deploy Ubuntu VM via Azure Portal  
 ![Step 1 - VM Deployed](01-vm-overview-deployed.png)
+
+### 2. ✅ Connect to the VM via Azure CLI  
 ![Step 2 - Connected to VM](02-connected-to-linux-vm.png)
+
+### 3. ✅ Run Basic Linux Commands  
 ![Step 3 - Basic Linux Commands](03-basic-linux-commands.png)
+
+### 4. ✅ Diable Root Login in SSH Config  
 ![Step 4 - No Failed Login Attempts](04-failed-login-attempts-none.png)
+
+### 5. ✅ Confirmed Failed Login Attempts Are Blocked  
 ![Step 5 - SSH Config Updated](linuxVM_SSH_Config_Validated.png)
+
+### 6. ✅ Set up firewall  
 ![Step 6 - UFW Firewall Enabled](06-UFW-FirewallRules-Enabled.png)
